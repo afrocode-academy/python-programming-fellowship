@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="assets/arewadsimage.png" alt="AfroCode Academy Python for Beginners - Cohort 3.0">
+    <img src="assets/arewadsimage.png" alt="AfroCode Academy Python for Beginners - Cohort 1.0">
 </p>
 
 <p align="center">
-<strong>AfroCode Academy Official Website:</strong> <a href="https://arewadatascience.github.io">https://arewadatascience.github.io</a>
+<strong>AfroCode Academy Official Website:</strong> <a href="https://afrocode-academy.github.io/AfroCodeAcademy/">https://afrocode-academy.github.io/AfroCodeAcademy/</a>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 7. [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCE4W31LFT6qDSUhnjn6YlKw?label=AfroCode%20Academy%20YouTube%20Channel%20Views)](https://www.youtube.com/@arewadatascienceacademy7195)
 
-# 1. 📘 AfroCode Academy Python for Beginners --- Cohort 3.0
+# 1. 📘 AfroCode Academy Python for Beginners --- Cohort 1.0
 
 Welcome to the AfroCode Academy Python Programming Fellowship, a comprehensive and tuition-free initiative designed to provide aspiring data scientists and machine learning engineers with fundamental Python programming skills. Establishing a solid Python foundation will substantially improve your capacity to master data science and machine learning concepts efficiently.
 
@@ -31,11 +31,11 @@ This curriculum employs practical, incremental exercises inspired by James Clear
 
 ## 1.1. 🗂 Table of Contents
 
-- **📘 [AfroCode Academy Python for Beginners - Cohort 3.0](#-afrocode-academy-python-for-beginners---cohort-30)**
+- **📘 [AfroCode Academy Python for Beginners - Cohort 1.0](#-afrocode-academy-python-for-beginners---cohort-1.0)**
 - **🗂 [Table of Contents](#-table-of-contents)**
   - **💡 [Program Participation Information](#-program-participation-information)**
   - **🌐 [Contact & Community](#-contact--community)**
-- **🎉 [Welcome to Cohort 3.0 AfroCode Academy Fellowship](#-welcome-to-cohort-30-afrocode-academy-fellowship)**
+- **🎉 [Welcome to Cohort 1.0 AfroCode Academy Fellowship](#-welcome-to-cohort-1.0-afrocode-academy-fellowship)**
   - **🎓 [Completion Requirements](#-completion-requirements)**
   - **🚀 [Program Commencement](#-program-commencement)**
 - **🛠 [Environment Setup](#-environment-setup)**
@@ -50,7 +50,7 @@ This curriculum employs practical, incremental exercises inspired by James Clear
 
 ## 1.2. 💡 Program Participation Information
 
-While Cohort 3.0 applications are no longer being accepted, our comprehensive learning materials remain available for independent study. Stay informed about future program cycles by following our social media channels and joining our Telegram community for regular updates and educational insights.
+While Cohort 1.0 applications are no longer being accepted, our comprehensive learning materials remain available for independent study. Stay informed about future program cycles by following our social media channels and joining our Telegram community for regular updates and educational insights.
 
 ---
 
